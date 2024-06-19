@@ -18,7 +18,7 @@ An AI-powered system that generates SQL queries directly from natural language i
 
 ## 🛠 Requirements
 
-- Python 3.7+
+- Python 3.8+
 - OpenAI API key
 
 ## 🚀 Installation
